@@ -1,2 +1,5 @@
-bower_components
+bower_components/bootstrap-sass
+bower_components/breakpoint-sass
+bower_components/jquery
+bower_components/sassy-maps
 node_modules
